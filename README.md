@@ -1,29 +1,21 @@
-# JupyterLite Demo
+# Emerging Technologies
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
+A repository which contains the learning outcomes achieved throughout the duration of this module, within my final year of studying in Software Development.
 
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+All practical work done throughout this module will be done within a **JupyterLite** instance.
 
-## ✨ Try it in your browser ✨
+## Learning Outcomes
 
-➡️ **https://jupyterlite.github.io/demo**
+  - Explore new emerging technologies within computing by researching credible sources
+  - Discuss an emerging technology and identify its origins and proponents
+  -  Apply research on an emerging technology in order to use it and avail of its benefits
+  - Provide and implement a solution to a computing problem using an emerging technology
 
-![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
 
-## Requirements
 
-JupyterLite is being tested against modern web browsers:
+## JupyterLite Notebooks
 
-- Firefox 90+
-- Chromium 89+
+All practical work can be viewed at the following link:
 
-## Deploy your JupyterLite website on GitHub Pages
+https://shanemcdonagh.github.io/emergingtechnologies
 
-Check out the guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
-
-## Further Information and Updates
-
-For more info, keep an eye on the JupyterLite documentation:
-
-- How-to Guides: https://jupyterlite.readthedocs.io/en/latest/howto/index.html
-- Reference: https://jupyterlite.readthedocs.io/en/latest/reference/index.html
