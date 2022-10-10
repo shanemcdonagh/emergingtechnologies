@@ -6,14 +6,28 @@ ipyevents>=2.0.1
 
 # Allows for interactive map widgets to be implemented
 # ipyleaflet
+
+# (Plot handling and interaction)
 ipympl>=0.8.2
-ipywidgets>=8.0.0,<9
+
+# (Allows for interaction/manipulation of HTML widgets)
+# ipywidgets>=8.0.0,<9
+
+# (Interactive web environment - essential)
 jupyterlab~=3.4.7
+
+# (Allows for ability to create flowcharts, diagrams etc.)
 jupyterlab-drawio
-jupyterlab-language-pack-fr-FR
-jupyterlab-language-pack-zh-CN
-jupyterlab-fasta>=3,<4
-jupyterlab-geojson>=3,<4
+
+# (Language packs (French and Chinese))
+# jupyterlab-language-pack-fr-FR
+# jupyterlab-language-pack-zh-CN
+
+# (Renderer for Fasta data and files - text-based format for representing either nucleotide sequences or amino acid (protein) sequences))
+# jupyterlab-fasta>=3,<4
+
+# (Allows for plotting of GeoJSON data - format for encoding a variety of geographic data structures)
+# jupyterlab-geojson>=3,<4
 
 #(Provides a tutorial in using JupyterLab) 
 jupyterlab-tour 
@@ -22,6 +36,7 @@ jupyterlab-tour
 jupyterlab_miami_nights 
 theme-darcula
 
+# (JupyterLab distribution - essential)
 jupyterlite==0.1.0b13
 
 # (Templates which aren't needed in this instance)
@@ -30,5 +45,6 @@ jupyterlite==0.1.0b13
 # jupyterlite-xeus-wren==0.2.1
 # jupyterlite-xeus-sqlite==0.2.1
 
+# Provides 40 plot category types to display data
 plotly>=5,<6
 
