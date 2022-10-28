@@ -40,10 +40,10 @@ theme-darcula
 jupyterlite==0.1.0b13
 
 # (Templates which aren't needed in this instance)
-# jupyterlite-p5-kernel==0.1.0a12
-# jupyterlite-xeus-lua==0.3.1
-# jupyterlite-xeus-wren==0.2.1
-# jupyterlite-xeus-sqlite==0.2.1
+jupyterlite-p5-kernel==0.1.0a12
+jupyterlite-xeus-lua==0.3.1
+jupyterlite-xeus-wren==0.2.1
+jupyterlite-xeus-sqlite==0.2.1
 
 # Provides 40 plot category types to display data
 plotly>=5,<6
