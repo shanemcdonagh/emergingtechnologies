@@ -11,7 +11,30 @@ All practical work done throughout this module will be done within a **JupyterLi
   -  Apply research on an emerging technology in order to use it and avail of its benefits
   - Provide and implement a solution to a computing problem using an emerging technology
 
+## Notebooks
 
+The following notebooks may be found within this repository, discussing the various topics I have researched and learned upon during the course of this module.
+
+### HTTP
+
+- Definition of HTTP
+- HTTP Request & Response
+- Definition of a server
+- Static vs Dynamic Websites
+- State and Session Management
+
+![alt text](https://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/images/HTTP_Steps.png)
+
+### Computation
+
+- Matrix Multiplication
+- Big O Notation
+- Turing Machines
+- Double Slit Experiment
+
+### Fourier Transform
+
+### Quantum Computing
 
 ## JupyterLite Notebooks
 
