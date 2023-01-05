@@ -30,11 +30,24 @@ The following notebooks may be found within this repository, discussing the vari
 - Matrix Multiplication
 - Big O Notation
 - Turing Machines
-- Double Slit Experiment
+
+![alt text](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/turing-machine/fsm0.jpg)
 
 ### Fourier Transform
 
+- Fourier Transform: Definition
+- Fourier Transform: Formula
+- Complex Numbers
+- Fourier Transform: Breaking down a signal
+- Inverse Fourier Transform (IFFT)
+
+
+![alt text](https://miro.medium.com/max/800/1*tKUOj31pLMO4ZWr4-EzyGw.png)
+
 ### Quantum Computing
+
+
+
 
 ## JupyterLite Notebooks
 
