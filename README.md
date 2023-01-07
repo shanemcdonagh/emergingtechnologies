@@ -47,7 +47,12 @@ The following notebooks may be found within this repository, discussing the vari
 ### Quantum Computing
 
 
+- Quantum Computing: Definition
+- Quantum Computing: Circuits
+- Quantum Computing: Gates
+- Quantum Computing: Application and Usage
 
+![alt text](https://www.austinchronicle.com/binary/085f/screens_feature2.jpg)
 
 ## JupyterLite Notebooks
 
